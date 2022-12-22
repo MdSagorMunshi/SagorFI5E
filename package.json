@@ -1,8 +1,8 @@
 {
-	"name": "UmaruBot",
+	"name": "SaXALBot",
 	"version": "31.7.2",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-	"main": "mirai.js",
+	"main": "saxal.js",
 	"scripts": {
 		"start": "node index",
 		"login": "node login",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ALveeSixNine/ALvee69"
+		"url": "https://github.com/MdSagorMunshi/SagorFI5E"
 	},
 	"keywords": [
 		"bot",
@@ -25,11 +25,11 @@
 	"author": "Md Sagor Munshi",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ALveeSixNine/ALvee69/issues"
+		"url": "https://github.com/MdSagorMunshi/SagorFI5E/issues"
 	},
-	"homepage": "https://github.com/ALveeSixNine/ALvee69"
+	"homepage": "https://github.com/MdSagorMunshi/SagorFI5E"
 	"dependencies": {
-		"@maihuybao/fca-unofficial": "^1.3.13-2",
+		"fca-saxal-remake": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.1",
 		"akaneko": "^5.2.2",
@@ -52,8 +52,8 @@
 		"fca-kaneki": "^1.2.9",
 		"fca-noder": "git+https://github.com/KurumiDevz/fca-noder.git",
 		"fca-sus": "^1.1.3",
-		"fca-unofficial": "^1.3.10",
-		"fca-unofficial-force": "^10.3.13",
+		"fca-saxal-remake": "^1.3.10",
+		"fca-saxal-remake": "^10.3.13",
 		"fca-xuyen-get": "^1.3.13",
 		"figlet": "",
 		"fs-extra": "^10.0.1",
